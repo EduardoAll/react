@@ -1,0 +1,34 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.button {
+  width: 56px;
+  height: 36px;
+  border-width: 0;
+  color: white;
+  border-radius: 5px;
+}
+
+.primary {
+  background-color: green;
+}
+
+.secondary {
+  background-color: blue;
+}
+
+.reseteo {
+  background-color: saddlebrown;
+  border-width: 0;
+  border-radius: 5px;
+  width: 56px;
+  height: 36px;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 8px;
+  color: seashell;
+  margin: auto;
+  margin-top: 10px;
+}
